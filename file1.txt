@@ -1,12 +1,2 @@
-helloFromChangePassword
-Hello From Dell contribution
-New line
-commit from Lem-92, I'm correct ?
-No
-Noo
-NOOOO
-YEES! after delete repo and clone it again
-Here is Oldguard {dell mselem}
-This is Lem-92 {Lenovo Mselem}
-This is OldguradMselem {dell Mselem again}
-Try again
+This is user Lem-92 
+Local known as Mselem Lenovo
